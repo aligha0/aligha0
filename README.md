@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ali, an energy systems engineer (I wish!! haha)
+- 👀 I’m interested in MATLAB and Python
+- 📫 How to reach me: https://www.linkedin.com/in/alighayedhosseini/ and https://www.researchgate.net/profile/Ali-Ghayedhosseini
